@@ -1,0 +1,47 @@
+
+.navbar-light .navbar-toggler {
+    border: none;
+    outline: none;
+}
+
+.navbar-light {
+    position: fixed !important;
+    width: 100%;
+    z-index: 1;
+}
+
+
+.navbar {
+    background: #fff;
+}
+.navbar-nav a {
+    margin: 0 30px !important;
+    padding: 5px;
+    font-family: 'Source Sans Pro Light';
+    color: #606060 !important;
+    font-size: 17px;
+}
+
+
+#signup-nav {
+    background: #fc4364 !important;
+    border-radius: 20px;
+    padding: 3px 18px !important;
+    font-weight: 600 !important;
+    color: #fff !important;
+    font-size: 14px !important;
+    line-height:  30px !important;
+}
+
+@media (max-width: 990px) {
+    .navbar-nav a {
+        margin: 10px 0 !important;
+        padding: 10px !important;
+    }
+
+    .navbar-nav a:hover {
+        background: #7a7a7a;
+        color: #fff !important;
+    }
+}
+

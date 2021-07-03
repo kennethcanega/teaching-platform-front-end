@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/freelance-teacher/static/css/main.be0ec752.chunk.css",
+    "main.js": "/freelance-teacher/static/js/main.dc7c254c.chunk.js",
+    "main.js.map": "/freelance-teacher/static/js/main.dc7c254c.chunk.js.map",
+    "runtime-main.js": "/freelance-teacher/static/js/runtime-main.46976791.js",
+    "runtime-main.js.map": "/freelance-teacher/static/js/runtime-main.46976791.js.map",
+    "static/css/2.0860baed.chunk.css": "/freelance-teacher/static/css/2.0860baed.chunk.css",
+    "static/js/2.641d0bf0.chunk.js": "/freelance-teacher/static/js/2.641d0bf0.chunk.js",
+    "static/js/2.641d0bf0.chunk.js.map": "/freelance-teacher/static/js/2.641d0bf0.chunk.js.map",
+    "index.html": "/freelance-teacher/index.html",
+    "static/css/2.0860baed.chunk.css.map": "/freelance-teacher/static/css/2.0860baed.chunk.css.map",
+    "static/css/main.be0ec752.chunk.css.map": "/freelance-teacher/static/css/main.be0ec752.chunk.css.map",
+    "static/js/2.641d0bf0.chunk.js.LICENSE.txt": "/freelance-teacher/static/js/2.641d0bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46976791.js",
+    "static/css/2.0860baed.chunk.css",
+    "static/js/2.641d0bf0.chunk.js",
+    "static/css/main.be0ec752.chunk.css",
+    "static/js/main.dc7c254c.chunk.js"
+  ]
+}

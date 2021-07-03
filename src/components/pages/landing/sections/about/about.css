@@ -1,0 +1,31 @@
+
+#about-bg {
+    height: auto;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#about {
+    position:relative;
+    top: -70px;
+}
+
+#about .description {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #606060 !important;
+}
+
+#about .description h4 {
+    font-family: 'Lato Bold';
+    margin-top: 25px;
+}
+
+#about .description p {
+    font-family: 'Source Sans Pro Light';
+    font-size: 18px;
+}
+
+#description-container {
+    margin: 0 auto;
+}
+

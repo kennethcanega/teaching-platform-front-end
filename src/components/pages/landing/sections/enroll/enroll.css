@@ -1,0 +1,97 @@
+
+
+#enroll-bg {
+    padding-bottom: 40px;
+}
+
+.enroll-container {
+    background: #fff;
+    padding-bottom: 30px;
+    -webkit-box-shadow: 0 2px 5px 0 rgb(0, 0, 0, 0.1);
+    box-shadow:  0 2px 5px 0 rgb(0, 0, 0, 0.1);
+}
+
+.enroll-container h4 {
+    font-family: 'Lato Light';
+    text-align: center;
+}
+
+
+.parent-course-header {
+    text-align: center;
+    background: #fc4364 !important;
+    padding: 5px;
+}
+
+.parent-course-header h4 {
+    font-family: 'Lato Bold';
+    font-size: 20px;
+    padding: 5px;
+    color: #fff !important;
+}
+
+.enroll-perks-container {
+    padding: 5px;
+}
+
+.enroll-perks-container .perk-text {
+    font-family: 'Source Sans Pro Light' ;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.enroll-perks-container .anticon-check {
+    font-size: 24px;
+    color: #fc4364;
+}
+
+.enroll-perks-container .check-container {
+    text-align: right;
+    padding:0;
+}
+
+
+.course-desc-container p{
+    font-family: 'Source Sans Pro Light' ;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.purchase-button {
+    color: #fff;
+    background-color: #fc4364;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    width: 60%;
+    padding: 5px;
+    height: 50px !important;
+}
+
+.purchase-button .purch-cart-icon {
+    font-size: 20px;
+}
+
+.purchase-button .purch-text {
+    font-family: 'Lato Light';
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.purchase-button div {
+    display: inline-block;
+}
+
+.purchase-button-container {
+    text-align:center;
+    margin-top: 15px;
+}
+
+#get-started-header {
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+    font-family: 'Lato Bold';
+    font-size: 24px;
+    color: #606060 !important;
+}

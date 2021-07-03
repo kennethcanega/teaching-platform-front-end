@@ -1,0 +1,13 @@
+
+.bg-slanted:before {
+    content: "";
+    background: #fff;
+    height: 100px;
+    transform: skewY(-4deg);
+    position: absolute;
+    margin-top: -50px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+

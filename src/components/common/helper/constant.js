@@ -1,0 +1,7 @@
+export const TEXT_TYPE = {
+    MENU: "MENU",
+    CONTENT_TITLE: "CONTENT_TITLE",
+    CONTENT: "CONTENT",
+    TITLE: "TITLE",
+    SUB_TITLE: "SUB_TITLE"
+}

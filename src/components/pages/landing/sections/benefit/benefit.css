@@ -1,0 +1,49 @@
+
+
+#benefit-bg {
+    background: #fff;
+    color: #606060;
+    padding-bottom: 50px;
+}
+
+#benefit-header {
+    font-family: 'Lato Light';
+    text-align: center;
+    margin-top: 10px;
+}
+
+#benefit-header-container {
+    margin: 0 auto;
+}
+
+#benefit-header-container p {
+    font-family: 'Source Sans Pro Light' ;
+    font-size: 18px;
+}
+
+.benefit-benefits {
+    margin-top: 50px;
+}
+
+.benefit-check {
+    font-size: 34px;
+}
+
+.benefit-check-container {
+    text-align: right;
+    padding: 0 !important;
+}
+
+.benefit-descriptions h1 {
+    font-family: 'Lato Light';
+    font-size: 24px;
+}
+
+.benefit-descriptions p {
+    font-family: 'Source Sans Pro Light' ;
+    font-size: 18px;
+}
+
+#benefit-header-container p {
+    text-align: center;
+}

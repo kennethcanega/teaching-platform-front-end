@@ -1,0 +1,42 @@
+
+#footer-bg {
+    background: #fff;
+    padding: 39px 0 42px;
+}
+
+.social-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.social-container div {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.social-container .anticon {
+    font-size: 40px;
+}
+
+#footer-header-container {
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: 'Lato Light';
+}
+
+#facebook-icon {
+    color: #3b5998;
+}
+
+#twitter-icon {
+    color: #00acee;
+}
+
+#wechat-icon {
+    color: #7bb32e;
+}
+
+#youtube-icon {
+    color: #FF0000;
+}
